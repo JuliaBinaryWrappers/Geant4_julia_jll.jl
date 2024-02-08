@@ -1,6 +1,6 @@
 name = "Geant4_julia_jll"
 uuid = "e202cb52-5471-567a-9cb0-0ca301e27810"
-version = "0.1.14+0"
+version = "0.1.15+0"
 
 [deps]
 Xerces_jll = "637d83c4-b86a-5d90-b82d-5cf0573a8cfc"
