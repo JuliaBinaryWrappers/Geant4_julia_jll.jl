@@ -1,6 +1,6 @@
 name = "Geant4_julia_jll"
 uuid = "e202cb52-5471-567a-9cb0-0ca301e27810"
-version = "0.2.2+0"
+version = "0.2.3+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
