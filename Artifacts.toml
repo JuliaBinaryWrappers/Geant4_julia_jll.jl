@@ -1,312 +1,416 @@
 [[Geant4_julia]]
 arch = "aarch64"
-git-tree-sha1 = "9780522911a27a290311e3f42b6bf317ffad2ecc"
+git-tree-sha1 = "0eb31aecc4ad6ce1091480f13d1dbfc05b685f80"
 julia_version = "1.10.0"
 os = "macos"
 
     [[Geant4_julia.download]]
-    sha256 = "b4ea6e06819b888dd481e71a7c677021e81bddbae65d2b265adefd9127dadeaa"
-    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.2.3+0/Geant4_julia.v0.2.3.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
+    sha256 = "84f355bfe1b886453e61e94fa7a6c77cd485507cde71dfd1ec7e84ba4cb202b7"
+    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.3.0+0/Geant4_julia.v0.3.0.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
 [[Geant4_julia]]
 arch = "aarch64"
-git-tree-sha1 = "dd8b0836000cdd8a0ae474ff2fa2d6683702f19f"
+git-tree-sha1 = "40c25133ef9978e397d9aab8ad0c029602280143"
 julia_version = "1.11.1"
 os = "macos"
 
     [[Geant4_julia.download]]
-    sha256 = "ae0108dc1a960c1b82a4a864a2b3dc38a217d0bd8f7fa8dc42cad9b04ca88e34"
-    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.2.3+0/Geant4_julia.v0.2.3.aarch64-apple-darwin-julia_version+1.11.1.tar.gz"
+    sha256 = "4ef1151bdc5ae27b67f690faa288abc00cf6b481bd65c6ffeb53176ec64cf81d"
+    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.3.0+0/Geant4_julia.v0.3.0.aarch64-apple-darwin-julia_version+1.11.1.tar.gz"
 [[Geant4_julia]]
 arch = "aarch64"
-git-tree-sha1 = "75d4ad3a5ef9229583fa58319aa0169136dec356"
+git-tree-sha1 = "899a466879dd41a7ab3e125b56772972e9b36982"
 julia_version = "1.12.0"
 os = "macos"
 
     [[Geant4_julia.download]]
-    sha256 = "d85297dd41da8194fbd25c619eb7b716d1f86634e5e1c32eac0ad40c32e51af1"
-    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.2.3+0/Geant4_julia.v0.2.3.aarch64-apple-darwin-julia_version+1.12.0.tar.gz"
+    sha256 = "d1e5d7ee6eb1628937b77c8be3cdbaf37a2a9dde841bf090395837b23c89d1ba"
+    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.3.0+0/Geant4_julia.v0.3.0.aarch64-apple-darwin-julia_version+1.12.0.tar.gz"
+[[Geant4_julia]]
+arch = "aarch64"
+git-tree-sha1 = "62c9362bec5611edc594b3afa48d1cb25ca8a3b1"
+julia_version = "1.13.0"
+os = "macos"
+
+    [[Geant4_julia.download]]
+    sha256 = "d706756c160235b9d1642f30ce5673930db7c0bf679cc2ae196ed66b505bb5eb"
+    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.3.0+0/Geant4_julia.v0.3.0.aarch64-apple-darwin-julia_version+1.13.0.tar.gz"
 [[Geant4_julia]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "2b88be9729bbd998161cf72196bdac24398fb73a"
+git-tree-sha1 = "9b5bf4223d10a87192cfbe0f3ea0471e42c1a931"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[Geant4_julia.download]]
-    sha256 = "edbfef48090cb67ad8d6eb1f09ccdcec09be1c9b226eef101472f09eee83aa88"
-    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.2.3+0/Geant4_julia.v0.2.3.aarch64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "92be5a235fa3797f6aa20fe61c56d0b985b399e5ca79063204bef795c211989a"
+    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.3.0+0/Geant4_julia.v0.3.0.aarch64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
 [[Geant4_julia]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "abdd12884dcd13f9540567d43d36cc565a949ce5"
+git-tree-sha1 = "5238ddf4a1316e8053d406fbabaac4f0b6556e27"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[Geant4_julia.download]]
-    sha256 = "25c833e1b5c8da4de200d10d5bf18e953e0b194b82dccb8b74e25b40660522b4"
-    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.2.3+0/Geant4_julia.v0.2.3.aarch64-linux-gnu-cxx03-julia_version+1.11.1.tar.gz"
+    sha256 = "03bac9c8d645ce69ef4ac8993c7d68cb72161e61030ac12b22bd737d90928a59"
+    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.3.0+0/Geant4_julia.v0.3.0.aarch64-linux-gnu-cxx03-julia_version+1.11.1.tar.gz"
 [[Geant4_julia]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "06786f9eb4e6495174ce5656bcccc3509ae23f1c"
+git-tree-sha1 = "39fe9cb235f0c76349b25fb1130c3d12108c9cc3"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[Geant4_julia.download]]
-    sha256 = "fb48154568f78a6edd73b28eb8a496eba7690f6cc4bed4f069f8a819beeb4520"
-    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.2.3+0/Geant4_julia.v0.2.3.aarch64-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
+    sha256 = "60ffd879095a3e60f1ad746ce1ebcdd4c234d620f8f6fa27aa24bb19c2e998ba"
+    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.3.0+0/Geant4_julia.v0.3.0.aarch64-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
+[[Geant4_julia]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e8c4ce965b062002d7be7a4dd50663a315cdb66a"
+julia_version = "1.13.0"
+libc = "glibc"
+os = "linux"
+
+    [[Geant4_julia.download]]
+    sha256 = "22e89ef92da7f3de26190c2ce8494cc684692bd9a7856831c95ed907f40c5540"
+    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.3.0+0/Geant4_julia.v0.3.0.aarch64-linux-gnu-cxx03-julia_version+1.13.0.tar.gz"
 [[Geant4_julia]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "22dec9241654bf2041dfba3c57d5b7db55f0b802"
+git-tree-sha1 = "d5359e078ed300ad8b5d09dda0d421221a4f3d22"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[Geant4_julia.download]]
-    sha256 = "9dd6dc509012d914cb1f202cd39ae4d575f754e92bed5198f4759c49ee111c34"
-    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.2.3+0/Geant4_julia.v0.2.3.aarch64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "1eafdf057e76734696458602db431e20b486d41d512954c0a28cc5934b002b7e"
+    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.3.0+0/Geant4_julia.v0.3.0.aarch64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[Geant4_julia]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6f0e7e2084550aa77911f953bea8370465ea6aa4"
+git-tree-sha1 = "ab1fdd4ba97daa3310ccb1ff8d2fd9611650816e"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[Geant4_julia.download]]
-    sha256 = "a76aaf4177d0f2bee441188a0bac75748efdf67e6cce877c2c7953d71908e465"
-    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.2.3+0/Geant4_julia.v0.2.3.aarch64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "f16044343b01df470d2833cb767e27e9945fa5a55f772a82298f64eef610ee22"
+    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.3.0+0/Geant4_julia.v0.3.0.aarch64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
 [[Geant4_julia]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "80d722c69a8682eb5d6054cbf0ef19396a14aba6"
+git-tree-sha1 = "4643aaac6bdae3da02f18236b96610cfe57b9f0c"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[Geant4_julia.download]]
-    sha256 = "e8e78f2bd80e8940820baa08b41d4ebf8e788a5aa008df5e9173c1f4c87bd4fb"
-    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.2.3+0/Geant4_julia.v0.2.3.aarch64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "f172a7993a90ddd6415956e7d8550d4bbfcdab00a4977810c6e6ee6d47d5019f"
+    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.3.0+0/Geant4_julia.v0.3.0.aarch64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+[[Geant4_julia]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "257e4fafc67f2150f9dbcbd816d913e57ba75e09"
+julia_version = "1.13.0"
+libc = "glibc"
+os = "linux"
+
+    [[Geant4_julia.download]]
+    sha256 = "ca90b74fb838d14544f7ac3d0e6aaf5f043524870ce88bc944b31e9d1430ed43"
+    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.3.0+0/Geant4_julia.v0.3.0.aarch64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
 [[Geant4_julia]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8c734b207581af17f03d7e1d6f03606aae68ed0e"
+git-tree-sha1 = "d91ac99ff36eec2d7e072ea94d9a162d2b82ef09"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[Geant4_julia.download]]
-    sha256 = "8ca79d17e2c1645720c0bd5ca2edd946c676ffd5b8a701b790a2de6771a6ab6a"
-    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.2.3+0/Geant4_julia.v0.2.3.powerpc64le-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "de9562cefc359fc202da6fce066571f27b065647ef1ed95d7696d7b5974824dd"
+    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.3.0+0/Geant4_julia.v0.3.0.powerpc64le-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
 [[Geant4_julia]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9510e74cf1ee58e7053d3cc8ff3507049c74240f"
+git-tree-sha1 = "b7534157d281ad8dbf4e7bcc47809a78162320ac"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[Geant4_julia.download]]
-    sha256 = "6069d0c8947f2bebf8d91f47ef6c671092e0faf20669e082cb549a4f8adc4211"
-    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.2.3+0/Geant4_julia.v0.2.3.powerpc64le-linux-gnu-cxx03-julia_version+1.11.1.tar.gz"
+    sha256 = "8247e182f824943b7ab8384f72a9f6857ffb3b99cc066ad6de913891b86c3614"
+    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.3.0+0/Geant4_julia.v0.3.0.powerpc64le-linux-gnu-cxx03-julia_version+1.11.1.tar.gz"
 [[Geant4_julia]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "5f385f232f410e0b2cc846c14d764db7c3b20b20"
+git-tree-sha1 = "630c0d6e7f55580b0b34c51891e82db2f6e2a9e4"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[Geant4_julia.download]]
-    sha256 = "6103c4fe068a07fa43e5a15e841e239c64e4f3ef5152f80a4bf370b51116ca35"
-    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.2.3+0/Geant4_julia.v0.2.3.powerpc64le-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
+    sha256 = "811c183d32cb31e2dcd01ea97a28c84685a272751d52d22e7de7c91aa8ccf608"
+    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.3.0+0/Geant4_julia.v0.3.0.powerpc64le-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
+[[Geant4_julia]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4ff908dbfcc91b21f91ee8d55cf3b8880c585cf1"
+julia_version = "1.13.0"
+libc = "glibc"
+os = "linux"
+
+    [[Geant4_julia.download]]
+    sha256 = "3061226b9a58d8051edbdf7c77eb047e7c554b12e0fc77f2b829b6fba7c8d8c9"
+    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.3.0+0/Geant4_julia.v0.3.0.powerpc64le-linux-gnu-cxx03-julia_version+1.13.0.tar.gz"
 [[Geant4_julia]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b9e829a2d04a35b9c4a79664756fb814b4deeb64"
+git-tree-sha1 = "814c38f34e6ec9eeaa4ef3a47acde6348e499524"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[Geant4_julia.download]]
-    sha256 = "1387f9a2c57d069e89c823e27a42f2b69b8f241fa0e9d25ce458fa9568687232"
-    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.2.3+0/Geant4_julia.v0.2.3.powerpc64le-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "ebe2acddda70955bf68e68dce6801e7d3a4fa43f71791866f1e8bc2d105846b8"
+    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.3.0+0/Geant4_julia.v0.3.0.powerpc64le-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[Geant4_julia]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3e4401d24a0c92a4638834c8e3abc8311cc8e024"
+git-tree-sha1 = "7df227aa466b633fad55b1793280ae1d6ac647c0"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[Geant4_julia.download]]
-    sha256 = "3abd7de201bed84cfab068a523299381da87f3d1d168923a18bff25cc48cf127"
-    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.2.3+0/Geant4_julia.v0.2.3.powerpc64le-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "7a7eb0f4da56fe55689361e5263c9e648c9ed9a4ad1a717ecc3c4a4a116d1de0"
+    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.3.0+0/Geant4_julia.v0.3.0.powerpc64le-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
 [[Geant4_julia]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ba6e111e6ddfafe4f8688110a6f655cee5ea8baa"
+git-tree-sha1 = "b24f7f758ed79c0f5b5abd23953c79c6148ca0e4"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[Geant4_julia.download]]
-    sha256 = "8fc58066b117276964e040a82d9bdc039882d71b4884c9383061dd3ef2402ada"
-    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.2.3+0/Geant4_julia.v0.2.3.powerpc64le-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "3dc6297d3602e9b8afe6eedb120e20571880affcf9c23526e7eb15c7f48b4191"
+    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.3.0+0/Geant4_julia.v0.3.0.powerpc64le-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+[[Geant4_julia]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fedb232a9e86fcbb5a2f8a69aea2cd8420e433e6"
+julia_version = "1.13.0"
+libc = "glibc"
+os = "linux"
+
+    [[Geant4_julia.download]]
+    sha256 = "cb8d3eebb950619f173d7237b750f096ac24819782753cbcb2d9e0f03a40dea6"
+    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.3.0+0/Geant4_julia.v0.3.0.powerpc64le-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
 [[Geant4_julia]]
 arch = "x86_64"
-git-tree-sha1 = "0bd08d88d81ae6d8663460baa3f0d5741f75655a"
+git-tree-sha1 = "b0e030b54bcb39cd0083b04d2bd6ee1e153319fa"
 julia_version = "1.10.0"
 os = "macos"
 
     [[Geant4_julia.download]]
-    sha256 = "c8cb68cf5f2f91aeee3e36075ad48d2c1c7d5aad6a210cbe1f93082431defbb8"
-    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.2.3+0/Geant4_julia.v0.2.3.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
+    sha256 = "cfbbe658e00ad3a074cfd839ad437519f7397cfb9f66a7e07eae2387443a167b"
+    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.3.0+0/Geant4_julia.v0.3.0.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
 [[Geant4_julia]]
 arch = "x86_64"
-git-tree-sha1 = "40839cb75ca725b87c0b1197cd3477120b30fa08"
+git-tree-sha1 = "514a0d93c7dcdfcfcafaaf3727f6fc3d7f9e9017"
 julia_version = "1.11.1"
 os = "macos"
 
     [[Geant4_julia.download]]
-    sha256 = "b0c08adec0efb710218536cd52caa5341c55400667d0f83a57791662d555de59"
-    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.2.3+0/Geant4_julia.v0.2.3.x86_64-apple-darwin-julia_version+1.11.1.tar.gz"
+    sha256 = "8c12e309d895ea31724f83096b1300d2c56aabe16c03adacd828d865b31c6a16"
+    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.3.0+0/Geant4_julia.v0.3.0.x86_64-apple-darwin-julia_version+1.11.1.tar.gz"
 [[Geant4_julia]]
 arch = "x86_64"
-git-tree-sha1 = "bff942663dbf3c5f2b2db162f8ac840bd9678ff5"
+git-tree-sha1 = "dd8d2187ed445c09ede1f4bf8a72d4541a46d764"
 julia_version = "1.12.0"
 os = "macos"
 
     [[Geant4_julia.download]]
-    sha256 = "faf3026404e5039cc774c68ebb6178204bfdb006da84bc08eefa3a5eb1d900bf"
-    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.2.3+0/Geant4_julia.v0.2.3.x86_64-apple-darwin-julia_version+1.12.0.tar.gz"
+    sha256 = "4bf5bec6141e93022ee7528e385db399b279a46b139a11a777416a67e8d8e4f6"
+    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.3.0+0/Geant4_julia.v0.3.0.x86_64-apple-darwin-julia_version+1.12.0.tar.gz"
+[[Geant4_julia]]
+arch = "x86_64"
+git-tree-sha1 = "50a2fcb481ad4e515a1fd3b6a8f01ee64d7c4fb3"
+julia_version = "1.13.0"
+os = "macos"
+
+    [[Geant4_julia.download]]
+    sha256 = "8b1d8f52f30ed34a0a751820d7d3773f1f63c08fb5f74c93f0b21822be87de0c"
+    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.3.0+0/Geant4_julia.v0.3.0.x86_64-apple-darwin-julia_version+1.13.0.tar.gz"
 [[Geant4_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c6fe80b0ede2d8703dcffb1f5a640d0a5449c0e1"
+git-tree-sha1 = "a7ad6e5955e5247044cfda1c1d27b9dd5d346709"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[Geant4_julia.download]]
-    sha256 = "462f3622542faf68b7d7d26b848197d0f6ab0d0a1ff0fadfab627daa0475a170"
-    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.2.3+0/Geant4_julia.v0.2.3.x86_64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "d2cb6b062db10013d5ba6ac8aaf7301876eaf1c786c75ef4a618584c89d29ee4"
+    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.3.0+0/Geant4_julia.v0.3.0.x86_64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
 [[Geant4_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f977e7ccaae71df9659e73fa36c77c6072175ae4"
+git-tree-sha1 = "cdb48c2e4c14a1bf41ba457cd29055ece8f7c5fc"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[Geant4_julia.download]]
-    sha256 = "2b1a5e61ba4f2143fd56424619d1fe078dd7307258201059a882510b96c6d1b8"
-    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.2.3+0/Geant4_julia.v0.2.3.x86_64-linux-gnu-cxx03-julia_version+1.11.1.tar.gz"
+    sha256 = "b6814e6e833f93361d8a93a160f6d19fe98e1490ec9851f7922417149e0d0296"
+    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.3.0+0/Geant4_julia.v0.3.0.x86_64-linux-gnu-cxx03-julia_version+1.11.1.tar.gz"
 [[Geant4_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b61b0a10881467cfb1d6f726650a86e23e647243"
+git-tree-sha1 = "b168a31d861f96813d19343882816c03a3f1f81d"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[Geant4_julia.download]]
-    sha256 = "24ce29bc12beeb861d9ff5fae47738d5a896d26f025e018b2aa546d56b3a99b7"
-    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.2.3+0/Geant4_julia.v0.2.3.x86_64-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
+    sha256 = "455d956f2cdf99b5757abd7b0853683568e9999fd362a8eb2a0a4549fd761769"
+    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.3.0+0/Geant4_julia.v0.3.0.x86_64-linux-gnu-cxx03-julia_version+1.12.0.tar.gz"
+[[Geant4_julia]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9398411552c30a0b1962d827ee1a280003430b6f"
+julia_version = "1.13.0"
+libc = "glibc"
+os = "linux"
+
+    [[Geant4_julia.download]]
+    sha256 = "e40b3d90541b1fbc573cbd037516b40cb330212f4253f86be4012699b893a10c"
+    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.3.0+0/Geant4_julia.v0.3.0.x86_64-linux-gnu-cxx03-julia_version+1.13.0.tar.gz"
 [[Geant4_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e5a53cc84caf185cafe30237f4528c12a7ca6ca2"
+git-tree-sha1 = "7cd33906c9ca2bd2a7c36b424a92bde91512340b"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[Geant4_julia.download]]
-    sha256 = "53c7b2b0a85ef38a440e68b0284c5795c2ae910cf3dfd056de0c5446a14aca2b"
-    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.2.3+0/Geant4_julia.v0.2.3.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "25dd0d648196355db10ed32e5b30c72da4d881d21e013807606150a2daf3bf23"
+    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.3.0+0/Geant4_julia.v0.3.0.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[Geant4_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6355c01750f7f7efc74b0f71cb6d70e5d2e4aaf9"
+git-tree-sha1 = "b767f952ac672ce6f372d5a2ba46dbadab080de7"
 julia_version = "1.11.1"
 libc = "glibc"
 os = "linux"
 
     [[Geant4_julia.download]]
-    sha256 = "2eed45eac6e9650d36f3cbf77f947b473493445a821f5df1e9a38b0a1ca2de29"
-    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.2.3+0/Geant4_julia.v0.2.3.x86_64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "f192195e897e80146a3d5283b033dc1235c52a324cde50a753ae1ec3cf63f88a"
+    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.3.0+0/Geant4_julia.v0.3.0.x86_64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
 [[Geant4_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "25417dcb44f8a1ba01472da4f638ad91495069f2"
+git-tree-sha1 = "82822363296d32345ef65a8ad2874746baef699d"
 julia_version = "1.12.0"
 libc = "glibc"
 os = "linux"
 
     [[Geant4_julia.download]]
-    sha256 = "dbd699774d59218d2f53e0aa38277e57e7ffc1b5b434cbf0eae0257a24b1471c"
-    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.2.3+0/Geant4_julia.v0.2.3.x86_64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "e3ba296dc1d4b4250e218bda6a03735ff26160150ef88b1ea5f69a0543e4012b"
+    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.3.0+0/Geant4_julia.v0.3.0.x86_64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+[[Geant4_julia]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b75259207c190c8d74742bdf91e690745bc071d9"
+julia_version = "1.13.0"
+libc = "glibc"
+os = "linux"
+
+    [[Geant4_julia.download]]
+    sha256 = "3af4995b927594a17fc3fc378178a63d0f9aa019882f1339a9323519cfa49874"
+    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.3.0+0/Geant4_julia.v0.3.0.x86_64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
 [[Geant4_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "223fe3dbc6a1363ab331b277e4af139136f94693"
+git-tree-sha1 = "197a69ba0e58648a02c6f516cb57673847c9d9e0"
 julia_version = "1.10.0"
 os = "windows"
 
     [[Geant4_julia.download]]
-    sha256 = "0824a976b295e31ac6685b5417770c4794dd7ad68f3897b80cec0bf04ca6bf82"
-    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.2.3+0/Geant4_julia.v0.2.3.x86_64-w64-mingw32-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "0712bdd4c45e1b6ca2828dbd02ed65196c908b33e752b4aca72f9f84da628631"
+    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.3.0+0/Geant4_julia.v0.3.0.x86_64-w64-mingw32-cxx03-julia_version+1.10.0.tar.gz"
 [[Geant4_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "520e32583124664b0726196e86bc1c54a2ce42b2"
+git-tree-sha1 = "4e0b9fba79139b049cd30baadb95545e93dd186d"
 julia_version = "1.11.1"
 os = "windows"
 
     [[Geant4_julia.download]]
-    sha256 = "2b8a20ab1e8d21ffb9951649b4724fdc4aed1d37f5d95c29acb5bbef3f5dc01f"
-    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.2.3+0/Geant4_julia.v0.2.3.x86_64-w64-mingw32-cxx03-julia_version+1.11.1.tar.gz"
+    sha256 = "0a23a25b5e694104c680ab027b345ed69aa37dd765358cffa5430dc715edc089"
+    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.3.0+0/Geant4_julia.v0.3.0.x86_64-w64-mingw32-cxx03-julia_version+1.11.1.tar.gz"
 [[Geant4_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "31dee3b656cec3719860aae0646db48cce1f7dc9"
+git-tree-sha1 = "2037d94a40e3164477b0ccbe15d34dcfca54951e"
 julia_version = "1.12.0"
 os = "windows"
 
     [[Geant4_julia.download]]
-    sha256 = "6f2dc27c10e1aa8d1cbae3820c91fa6245da533a9d53d8a45c26357d78c28b64"
-    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.2.3+0/Geant4_julia.v0.2.3.x86_64-w64-mingw32-cxx03-julia_version+1.12.0.tar.gz"
+    sha256 = "c5633746ad54c2c5d1e03b44dc5f93ed7dc1c6b1e9b0ce6d570f95f5ab2fbd2f"
+    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.3.0+0/Geant4_julia.v0.3.0.x86_64-w64-mingw32-cxx03-julia_version+1.12.0.tar.gz"
+[[Geant4_julia]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4468ec543eae445cae3c6af586853b1ca0410e96"
+julia_version = "1.13.0"
+os = "windows"
+
+    [[Geant4_julia.download]]
+    sha256 = "b2f1f12160b849621e484db0d79d0145a94dff9439b1a460e9bb4a7465d377a6"
+    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.3.0+0/Geant4_julia.v0.3.0.x86_64-w64-mingw32-cxx03-julia_version+1.13.0.tar.gz"
 [[Geant4_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5556a25662026e87060e0616a0036168054bf8c3"
+git-tree-sha1 = "665738f17c4b8f300203aa671667eca6294bb0e2"
 julia_version = "1.10.0"
 os = "windows"
 
     [[Geant4_julia.download]]
-    sha256 = "d91976af9295978499d285efc1c749e929854ac210889fb235ffa3232fa92507"
-    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.2.3+0/Geant4_julia.v0.2.3.x86_64-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "1268f27a2d27edd9c9cbf6b4ea79f76caf0740ee23fa58f62c75947862d8cdfe"
+    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.3.0+0/Geant4_julia.v0.3.0.x86_64-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
 [[Geant4_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c5667f3a88fe5b998e527bebea7620e778a8d011"
+git-tree-sha1 = "c0f4df26dbc06ca3f367c11d550dd01779ff2e27"
 julia_version = "1.11.1"
 os = "windows"
 
     [[Geant4_julia.download]]
-    sha256 = "727754171fb2fe12010439d5d3913f34a0fcbabfe2082b8b75e605f0e6124ac9"
-    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.2.3+0/Geant4_julia.v0.2.3.x86_64-w64-mingw32-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "c765e87682e727833621025e4a5e515630188311040618f6d9ad83fe8b23813c"
+    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.3.0+0/Geant4_julia.v0.3.0.x86_64-w64-mingw32-cxx11-julia_version+1.11.1.tar.gz"
 [[Geant4_julia]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d68fb5fd2f5eda98c9129b8852b1f28738f08dab"
+git-tree-sha1 = "7265dcd63d9509112e62e85fe632a990998c84b1"
 julia_version = "1.12.0"
 os = "windows"
 
     [[Geant4_julia.download]]
-    sha256 = "dd72aaeb9ea79155a3e77bee0a4b5be6e974d8368d7de84ed215c53c2e258df0"
-    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.2.3+0/Geant4_julia.v0.2.3.x86_64-w64-mingw32-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "5934a8e7858e82256cec38dc9229524b527c5619c82fe07b91e878acbd2bc7c6"
+    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.3.0+0/Geant4_julia.v0.3.0.x86_64-w64-mingw32-cxx11-julia_version+1.12.0.tar.gz"
+[[Geant4_julia]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a829d0bf09981833357a94925a3e0789bf187cc2"
+julia_version = "1.13.0"
+os = "windows"
+
+    [[Geant4_julia.download]]
+    sha256 = "739a6be135bde4a861cef13a7d26e710e2549b863ae8309d3ede3b83e68ba1da"
+    url = "https://github.com/JuliaBinaryWrappers/Geant4_julia_jll.jl/releases/download/Geant4_julia-v0.3.0+0/Geant4_julia.v0.3.0.x86_64-w64-mingw32-cxx11-julia_version+1.13.0.tar.gz"
