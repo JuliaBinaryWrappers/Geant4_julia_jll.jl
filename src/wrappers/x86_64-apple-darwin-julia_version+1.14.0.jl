@@ -4,19 +4,19 @@ export Geant4_exports, libGeant4Wrap
 using libcxxwrap_julia_jll
 using Geant4_jll
 JLLWrappers.@generate_wrapper_header("Geant4_julia")
-JLLWrappers.@declare_file_product(Geant4_exports)
 JLLWrappers.@declare_library_product(libGeant4Wrap, "@rpath/libGeant4Wrap.dylib")
+JLLWrappers.@declare_file_product(Geant4_exports)
 function __init__()
     JLLWrappers.@generate_init_header(libcxxwrap_julia_jll, Geant4_jll)
-    JLLWrappers.@init_file_product(
-        Geant4_exports,
-        "Geant4-export.jl",
-    )
-
     JLLWrappers.@init_library_product(
         libGeant4Wrap,
         "lib/libGeant4Wrap.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
+    )
+
+    JLLWrappers.@init_file_product(
+        Geant4_exports,
+        "Geant4-export.jl",
     )
 
     JLLWrappers.@generate_init_footer()
